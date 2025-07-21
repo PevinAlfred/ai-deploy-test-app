@@ -5,3 +5,4 @@
 Ready to Deploy
 All Sanity checks done.
 Added monitoring features for prometheus
+Added new endpoint
