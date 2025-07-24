@@ -4,4 +4,4 @@
 
 Ready to Deploy
 Added monitoring features for prometheus
-Added new endpoint.
+Added new endpoint
